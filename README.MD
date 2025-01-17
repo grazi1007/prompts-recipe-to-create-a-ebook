@@ -19,6 +19,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
+- [Gamma](https://www.https://gamma.app/pt-br)
 - [PowerPoint](https://www.microsoft.com/en/
 microsoft-365/powerpoint)
 
@@ -39,10 +40,19 @@ Midjourney：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A woman changing for fat to fin, very happy, on an electrocardiogram lifeline --v 5.1 |
 
+
+Gamma：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Layout | Montar um e-book com o conteúdo abaixo |
+
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney
+- Layout gerado via Gamma
 
 ## 📚 Materiais
 
