@@ -38,7 +38,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A woman changing for fat to fin, very happy, on an electrocardiogram lifeline --v 5.1 |
+| título | imagine a happy woman with tshirt from gym --v 5.1 |
 
 
 Gamma：
