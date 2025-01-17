@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/eeb78845062c326bebe57a2e4423960f11a8c6a2/assets/mulher%20feliz%20(2).jpg"
     width="400"  
 />
 </p>
