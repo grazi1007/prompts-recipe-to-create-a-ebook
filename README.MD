@@ -13,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/aae5c4381a36d219a138c6cb9f26f11538ab0b45/.github/output/ebook%20%20a%20jornada%20para-o-Seu-Novo-Eu%20(2).pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/grazi1007/prompts-recipe-to-create-a-ebook/blob/16212b8a4d7d6dd7a2bd2baf0c5d19bb3641da1c/.github/output/ebook%20%20a%20jornada%20para-o-Seu-Novo-Eu%20atu%20(2).pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
